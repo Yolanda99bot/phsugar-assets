@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Bot working directory – generated variants are temporary
+materials/*.jpg
+materials/*.mp4
+materials/*.png
+
+# Editor / OS
+.DS_Store
+*.swp
